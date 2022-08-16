@@ -131,3 +131,26 @@
     text-align: center;
     padding: 10px;
 }
+
+.logoFooter{
+    width: 180px;
+}
+
+.footer{
+    width: 100%;
+    min-height: 40px;
+    background-color: #292929;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px;
+    gap: 15px;
+}
+
+.footerAnchor{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    cursor: pointer;
+}
